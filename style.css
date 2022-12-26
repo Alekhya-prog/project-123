@@ -1,0 +1,21 @@
+body {
+background-color: aquamarine;
+}
+
+.header1{
+font-size: 30px;
+}
+
+
+#div1 {
+position : fixed ;
+bottom : 0 ;
+text-align: center;
+width : 100%;
+}
+
+canvas {
+border : 4px solid black ;
+box-shadow: inset; 
+
+}
